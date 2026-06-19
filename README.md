@@ -80,7 +80,6 @@ Notas práticas:
 ├── 03_experiments.ipynb
 ├── 04_visualizacoes.ipynb
 ├── relatorio.pdf            # versão compilada
-└── figuras/                 # figuras geradas (distribuição, amostras, t-SNE, matriz, erros...)
 ```
 
 ## Reprodutibilidade
